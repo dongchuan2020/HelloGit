@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("在线编辑");
         System.out.println("克隆成功并上传新的代码");
         System.out.println("修改代码1");
+        System.out.println("修改代码2");
     }
 }
